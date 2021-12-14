@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.252.173.144:9980/mithuntechnologies/repository/wallmart-release/</url>
+	      <name>SKM Technologies Releases Nexus Repository</name>
+	      <url>http://18.117.119.193:8081/nexus/repository/Devops-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.252.173.144:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
+	      <name>SKM Technologies Snapshot Nexus Repository </name>
+	      <url>http://18.117.119.193:8081/nexus/repository/Devops-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
