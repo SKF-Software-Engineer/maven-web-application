@@ -103,13 +103,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SKM Technologies Releases Nexus Repository</name>
-	      <url>http://18.217.75.27:8081/nexus/repository/Walmart-release/</url>
+	      <url>http://18.217.75.27:8081/nexus/repository/DevOpsRelease-development/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SKM Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.217.75.27:8081/nexus/repository/walmart-snapshot/</url>
+	      <url>http://18.217.75.27:8081/nexus/repository/DevOpsSnapshot-development/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
